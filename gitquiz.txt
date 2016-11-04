@@ -1,0 +1,17 @@
+Come to class with a smiley face
+
+Clone repository <git clone --config="http.proxy=http://michael2643:michael2643@192.168.2.1:8080" https://github.com/michael2643-cmis/michael2643-cmis-wd>
+
+Create "file.txt" <gedit file.txt>
+
+Edit "file.txt" (using gedit)
+
+Save "file.txt" (using gedit)
+
+Add/Save changes <git add .> (can be repeated after each steps; create, edit, save)
+
+Commit changes <git commit -m "write-stuff-here" (after major bulletpoints)
+
+Push/Upload changes <git push>
+
+Leave class with a grumpy face
