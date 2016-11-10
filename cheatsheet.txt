@@ -12,6 +12,10 @@ Terminal
 	ls - same as terminal
 	cd - same as terminal
 	python -m SimpleHTTPServer - Start the development server
+	put
+	sftp
+	!ls
+	
 
 
 HTML
@@ -21,4 +25,5 @@ HTML
 	<footer>
 	<h1> - <h6>
 	<p>
+	<!-- afjaweifj -->
 
