@@ -1,0 +1,13 @@
+html {
+	font-family:arial;
+	color:white;
+	background-color:#88e;
+}
+
+h1 {
+	border-bottom:solid 2px white;
+}
+
+footer {
+	border-top:solid 1px white;
+}
