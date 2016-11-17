@@ -1,26 +1,42 @@
 html {
-	font-family: arial;
-	color: white;
-	background-color: #DC143C;
-	cursor: wait;
+	/*1*/font-family: arial;
+	/*2*/color: white;
+	/*3*/background-color: #DC143C;
+	/*4*/cursor: wait;
 }
 
 h1 {
-	border-bottom: solid 2px white;
-	font-size: 50px;
-	text-align: center;
+	/*5*/border-bottom: solid 2px white;
+	/*6*/font-size: 50px;
+	/*7*/text-align: center;
 }
 
 h2 {
 	font-size: 26px;
 	text-align: center;
-	margin: 50px;
+	/*8*/margin: 50px;
 	margin-top: 70px;
 }
 
+h3 {
+	text-align: center;
+	font-family: serif;
+	font-size: 30px;
+	/*9*/text-shadow: 3px 3px #666666;
+	/*10*/letter-spacing: 20px;
+	/*11*/padding: 20px;
+	/*12*/background-image: url(http://cdn.wallpapersafari.com/73/10/E1bD5B.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	/*13*/outline: 5px solid rgba(255, 255, 255, 0.7);
+	/*14*/outline-style: outset;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
 p {
-	background: #f99;
-  	padding: 18px;
+	background-color: #f99;
+  	padding: 16px;
 	cursor: not-allowed;
 }
 
