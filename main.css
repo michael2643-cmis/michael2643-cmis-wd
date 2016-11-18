@@ -16,22 +16,27 @@ h2 {
 	text-align: center;
 	/*8*/margin: 50px;
 	margin-top: 70px;
+	/*9*/text-decoration: line-through;
+	cursor: help;
 }
 
 h3 {
 	text-align: center;
 	font-family: serif;
 	font-size: 30px;
-	/*9*/text-shadow: 3px 3px #666666;
-	/*10*/letter-spacing: 20px;
-	/*11*/padding: 20px;
-	/*12*/background-image: url(http://cdn.wallpapersafari.com/73/10/E1bD5B.jpg);
+	/*10*/text-shadow: 3px 3px #777;
+	/*11*/text-transform: uppercase;
+	/*12*/letter-spacing: 16px;
+	/*13*/padding: 20px;
+	/*14*/background-image: url(http://cdn.wallpapersafari.com/73/10/E1bD5B.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-	/*13*/outline: 5px solid rgba(255, 255, 255, 0.7);
-	/*14*/outline-style: outset;
+	/*15*/outline: 5px solid rgba(255, 255, 255, 0.7);
+	/*16*/outline-style: outset;
 	margin-left: 200px;
 	margin-right: 200px;
+	/*17*/opacity: 1;
+	cursor: crosshair;
 }
 
 p {
@@ -42,5 +47,8 @@ p {
 
 footer {
 	border-top: solid 1px white;
+	/*18*/border-top-style: dotted;
 	text-align: center;
+	/*19*/word-spacing: 1px;
+	/*20*/font-style: italic;
 }
