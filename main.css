@@ -1,3 +1,8 @@
+/* 1.font-family 2.color 3.background-color 4.cursor 5.border 6.font-size 7.text-align 8.margin 9.text-decoration 10.text-shadow 11.text-transform 12.letter-spacing 13.padding 14.background-image 15.outline 16.outline-style 17.opacity 18.border-style 19.word-spacing 20.font-style
+
+<text-shadow from> Youngil
+<background-image> using gif from Aaron*/
+
 html {
 	/*1*/font-family: arial;
 	/*2*/color: white;
