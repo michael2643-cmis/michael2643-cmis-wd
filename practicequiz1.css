@@ -1,1 +1,58 @@
-dfawefwdfaawef
+html {
+font-family: arial;
+}
+
+main{
+border-left: 14px solid orange;
+}
+
+h1 {
+font-style: italic;
+font-style: bold;
+font-size:32px;
+color: yellow;
+background: green;
+border-bottom: 5px dashed yellow;
+padding: 3px;
+}
+
+h2 {
+font-style: italic;
+font-style: bold;
+font-size: 16px;
+color: blue;
+background: red;
+padding-top: 10px;
+padding-bottom: 10px;
+border-bottom: 10px dashed yellow;
+margin: 0px;
+}
+
+h3 {
+font-size: 22px;
+color: yellow;
+background: purple;
+}
+
+h4 {
+font-size: 18px;
+color: purple;
+background: yellow;
+border-top: 2px dashed purple;
+}
+
+p {
+color: blue;
+margin-top: 12px;
+margin-bottom: 12px;
+font-size: 16px;
+}
+
+footer {
+font-family: times new roman;
+font-size: 16px;
+color: blue;
+border-left: 14px solid red;
+border-top: 1px dotted black;
+padding-top: 10px;
+}
