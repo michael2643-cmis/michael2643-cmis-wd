@@ -1,50 +1,52 @@
 html {
-background-color: #a6c1ed;
-font-family: arial;
+	background-color: #a6c1ed;
+	font-family: arial;
 }
 
 nav {
-background-color: #284D59;
-color: white;
-padding: 10px;
-font-size: 18px;
-font-style: bold;
-margin: 0px;
+	background-color: #284D59;
+	color: white;
+	padding: 10px;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 0px;
 }
 
-a:link, a:visited {
-color: white;
+	a:link, a:visited {
+	color: white;
 }
 
 h1 {
-color: white;
-border-bottom: 4px solid white;
-background-color: #3a5277;
-padding-top: 16px;
-padding-left: 16px;
-font-size: 36px;
+	color: white;
+	border-bottom: 4px solid white;
+	background-color: #3a5277;
+	padding-top: 16px;
+	padding-left: 16px;
+	font-size: 36px;
 }
 
 h2 {
-color: white;
-border-left: 10px solid white;
-background-color: #385a91;
-padding: 4px;
+	color: white;
+	border-left: 10px solid white;
+	background-color: #385a91;
+	padding: 4px;
 }
 
 ol {
-margin-left: 20px;
-background-color: rgba(255, 255, 255, 0.7);
-padding: 10px;
-padding-left: 24px;
-line-height: 24px;
-border-left: 20px solid #15175C;
+	color: #336;
+	margin-left: 20px;
+	background-color: rgba(255, 255, 255, 0.7);
+	padding: 10px;
+	padding-left: 24px;
+	line-height: 24px;
+	border-left: 20px solid #15175C;
 }
 
 ul {
-margin-left: 20px;
-background-color: rgba(255, 255, 255, 0.7);
-padding: 10px;
-padding-left: 24px;
-line-height: 24px;
-border-left: 20px solid #15175C;
+	margin-left: 20px;
+	background-color: rgba(100, 100, 180, 0.7);
+	padding: 10px;
+	padding-left: 24px;
+	line-height: 24px;
+	border-left: 20px solid #15175C;
+}

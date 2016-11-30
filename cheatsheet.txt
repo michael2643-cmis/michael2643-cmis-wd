@@ -13,7 +13,7 @@ Terminal
 	cd - same as terminal
 	python -m SimpleHTTPServer - Start the development server
 	put
-	sftp
+	sftp <michael2643@cmis-hsteacher>
 	!ls
 	
 
