@@ -1,0 +1,70 @@
+html {
+	background-color: red;
+	margin-left: 430px;
+	margin-right: 430px;
+	font-family: arial;
+	color: black;
+}
+
+header {
+	background-color: blue;
+	color: white;
+}
+
+h3 {
+	font-family: arial;
+	font-weight: normal;
+	font-size: 16px;
+}
+
+h1 {
+	font-family: fantasy;
+	font-size: 40px;
+	color: yellow;
+	border-left: 40px solid yellow;
+}
+
+p {
+	font-size: 16px;
+	font-family: times new roman;
+}
+
+a:link, a:visited {
+	color: yellow;
+	font-size: 14px;
+}
+
+main {
+	margin-left: 0px;
+	font-family: arial;
+	background-color: white;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+
+h2 {
+	font-size: 26px;
+	font-weight: bold;
+	padding-right: 50px;
+	border-right: 100px solid brown;
+}
+
+ol {
+	font-family: times new roman;
+	font-size: 16px;
+}
+
+li{
+	text-decoration: line-through;
+}
+
+ul {
+	font-size: 12px;
+	font-family: times new roman;
+}
+
+footer {
+	background-color: blue;
+	color: white;
+	font-size: 16px;
+}
