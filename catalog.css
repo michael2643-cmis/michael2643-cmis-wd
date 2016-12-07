@@ -1,5 +1,43 @@
 html {
-	background-color: #266
-	margin-left: 100px;
-	margin-right: 100px;
+	background-color: #3D3D41;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-family: arial;
+	color: white;
 }
+
+header {
+	background-color: #29292E;
+	border-left: 20px solid #111;
+	border-right: 20px solid #111;
+	color: white;
+	text-align: center;
+	box-shadow: 0px 0px 10px black;
+}
+
+nav {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+nav a:link, a:visited {
+	padding: 20px 100px;
+	background-color: #1E1C21;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+	box-shadow: 0px 0px 10px black;
+}
+
+main {
+	background-color: #5E5D57;
+	box-shadow: 0px 0px 10px black;
+}
+
+article {
+	border: 2px solid white;
+	margin: 20px;
+}
+	
