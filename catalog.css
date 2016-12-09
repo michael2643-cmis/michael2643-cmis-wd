@@ -8,8 +8,6 @@ html {
 
 header {
 	background-color: #29292E;
-	border-left: 20px solid #111;
-	border-right: 20px solid #111;
 	padding-top: 6px;
 	padding-bottom: 6px;
 	color: white;
@@ -39,19 +37,33 @@ main {
 	box-shadow: 0px 0px 10px black;
 }
 
-article {
-	margin-top: 20px;
-	border-left: 5px solid rgb(180, 180, 180);
-	border-right: 5px solid rgb(180, 180, 180);
+h3 {
+	font-size: 30px;
+	text-align: center;
 }
 
-article h2 {
-	border-left: 10px solid gray;
-	border-right: 10px solid gray;
+p{
+	text-align: center;
+}
+
+article {
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.5);
+	margin-top: 40px;
+	border: 5px solid #262626;
+	box-shadow: inset 0px 0px 10px #262626;
 }
 
 article img {
-	background-color: #2C2C30;
+	background-color: rgb(30, 30, 40);
+	box-shadow: inset 0px 0px 10px white;
 	height: 192px;
 	width: 256px;
+	display: block;
+	margin: auto;
+	padding-right: 200px;
+	padding-left: 200px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	outline: 2px solid white;
 }
