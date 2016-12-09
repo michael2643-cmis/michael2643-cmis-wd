@@ -10,6 +10,8 @@ header {
 	background-color: #29292E;
 	border-left: 20px solid #111;
 	border-right: 20px solid #111;
+	padding-top: 6px;
+	padding-bottom: 6px;
 	color: white;
 	text-align: center;
 	box-shadow: 0px 0px 10px black;
@@ -22,7 +24,7 @@ nav {
 }
 
 nav a:link, a:visited {
-	padding: 20px 100px;
+	padding: 20px 200px;
 	background-color: #1E1C21;
 	color: white;
 	text-decoration: none;
@@ -32,12 +34,24 @@ nav a:link, a:visited {
 }
 
 main {
+	padding: 20px;
 	background-color: #5E5D57;
 	box-shadow: 0px 0px 10px black;
 }
 
 article {
-	border: 2px solid white;
-	margin: 20px;
+	margin-top: 20px;
+	border-left: 5px solid rgb(180, 180, 180);
+	border-right: 5px solid rgb(180, 180, 180);
 }
-	
+
+article h2 {
+	border-left: 10px solid gray;
+	border-right: 10px solid gray;
+}
+
+article img {
+	background-color: #2C2C30;
+	height: 192px;
+	width: 256px;
+}
